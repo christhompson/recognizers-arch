@@ -1,0 +1,10 @@
+Pillow
+Pympler
+argparse
+husl
+matplotlib
+numpy
+pandas
+pylint
+pyzmq
+virtualenv
